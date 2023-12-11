@@ -1,0 +1,11 @@
+{
+    "name": "KrakenImageOptimiser",
+    "alias": "Krakenimageoptimiser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\KrakenImageOptimiser\\app\\Providers\\KrakenImageOptimiserServiceProvider"
+    ],
+    "files": []
+}

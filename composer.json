@@ -27,5 +27,9 @@
         "psr-4": {
             "Modules\\KrakenImageOptimiser\\Tests\\": "tests/"
         }
+    },
+    "require": {
+        "kraken-io/kraken-php": "^1.6",
+        "creode/laravel-image-optimiser": "^1.1"
     }
 }

@@ -11,4 +11,6 @@ return [
      *
      */
     'storage_path' => storage_path('app/kraken-image-optimiser'),
+
+    'webp_enabled' => true,
 ];

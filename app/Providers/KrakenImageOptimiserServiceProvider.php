@@ -23,9 +23,9 @@ class KrakenImageOptimiserServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        $this->app->singleton('optimiser', function () {
-            return new \Modules\KrakenImageOptimiser\app\Optimisers\KrakenOptimiser();
-        })
+        // $this->app->singleton('optimiser', function () {
+        //     return new \Modules\KrakenImageOptimiser\app\Optimisers\KrakenOptimiser();
+        // });
     }
 
     /**
